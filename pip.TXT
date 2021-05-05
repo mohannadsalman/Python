@@ -1,0 +1,9 @@
+1) pip list : show all the installed packages
+2)deactivates the envaroment
+3) pip3 list  show the same as pip list 
+4)calls enva file
+5)pip install django :installs django 
+6)pip freeaze : shows the vergine of what i have in the enva 
+7)pip freeze > requirements.txt : create a txt file and put what pip freeze shows inside it 
+8) pip uninstall django : uninstalls django 
+9) shows django
